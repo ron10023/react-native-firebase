@@ -1,5 +1,10 @@
 # react-native-firebase
 
+[![npm version](https://img.shields.io/npm/v/react-native-configure-firebase.svg?style=flat-square)](https://www.npmjs.com/package/react-native-configure-firebase)
+[![NPM downloads](https://img.shields.io/npm/dm/react-native-configure-firebase.svg?style=flat-square)](https://www.npmjs.com/package/react-native-configure-firebase)
+[![License](https://img.shields.io/npm/l/react-native-configure-firebase.svg?style=flat-square)](/LICENSE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](ron10023@gmail.com)
+
 ### Description
 
 This script automates the integration of ['react-native-firebase'](https://invertase.io/react-native-firebase) package.
