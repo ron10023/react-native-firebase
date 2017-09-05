@@ -2,7 +2,7 @@
 
 ### Description
 
-This script automates the use of ['react-native-firebase'](https://invertase.io/react-native-firebase) package.
+This script automates the integration of ['react-native-firebase'](https://invertase.io/react-native-firebase) package.
 
 ### Installation
 
