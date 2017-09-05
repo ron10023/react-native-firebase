@@ -6,7 +6,7 @@ This script automates the integration of ['react-native-firebase'](https://inver
 
 ### Installation
 
-#### Using NPM
+#### Using NPM (when using with gulp)
 
 npm i react-native-configure-firebase --save
 
