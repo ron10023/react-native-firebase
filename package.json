@@ -1,0 +1,48 @@
+{
+  "author": {
+    "name": "Ronen Racz",
+    "email": "ron10023@gmail.com",
+    "url": "https://github.com/ron10023"
+  },
+  "bugs": {
+    "url": "https://github.com/ron10023/react-native-firebase/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ronen Racz",
+      "email": "ron10023@gmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "An automated script for react-native-firebase package integration.",
+  "devDependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "package.json",
+    "configure-firebase.js",
+    "README.md"
+  ],
+  "homepage": "https://github.com/ron10023/react-native-firebase",
+  "keywords": [
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "firebase"
+  ],
+  "license": "Apache-2.0",
+  "name": "react-native-configure-firebase",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:ron10023/react-native-firebase.git"
+  },
+  "version": "1.0.5"
+}
