@@ -8,6 +8,10 @@
 
 This script automates the integration of ['react-native-firebase'](https://invertase.io/react-native-firebase) package.
 
+#### Attention
+
+Due to EventEmitter deprecation in React Native v0.48, Please [click here](https://github.com/invertase/react-native-firebase/issues/386) for a fix.
+
 ### Installation
 
 #### Using NPM (when using with gulp)
